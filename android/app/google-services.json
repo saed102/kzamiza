@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "763869535155",
+    "project_id": "kzamiza-d7258",
+    "storage_bucket": "kzamiza-d7258.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763869535155:android:814dcfedd4129054b009c6",
+        "android_client_info": {
+          "package_name": "com.onatcipli.kzamiza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763869535155-sjvsji3s55efksncbuoonvp1a3k2ik2p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArUYD6r_19Dic-T6CXtZw1zAntMSmkDtU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763869535155-sjvsji3s55efksncbuoonvp1a3k2ik2p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
